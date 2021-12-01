@@ -3,7 +3,7 @@
     "header":{
         "discription":"Sounds Pack for my horror/adventure map",
         "name":"Sounds Pack",
-        "uuid":"",
+        "uuid":"f0d6e212-52c1-11ec-bf63-0242ac130002",
         "version":[1,0,0],
         "min_engine_version": [1, 16, 0],
     }
@@ -11,7 +11,7 @@
         {
             "discription":"Sounds Pack for my horror/adventure map",
             "type":"resources",
-            "uuid":"",
+            "uuid":"f0d6e474-52c1-11ec-bf63-0242ac130002",
             "version": [1,0,0],
         },
     ],
