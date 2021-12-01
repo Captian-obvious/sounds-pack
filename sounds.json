@@ -3,7 +3,27 @@
         "music1":{
             "name":"core.music1",
             "pitch": 1,
-            "volume":100,
-        }
-    }
+            "volume": 100,
+        },
+        "music2":{
+            "name":"core.music2",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "music3":{
+            "name":"core.music3",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "music4":{
+            "name":"core.music4",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "music5":{
+            "name":"core.music5",
+            "pitch": 1,
+            "volume": 100,
+        },
+    },
 }
