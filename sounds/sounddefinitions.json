@@ -1,0 +1,9 @@
+{
+	"format_version": "1.18.0",
+	"sound_definitions": {
+		"core.music1": {
+			"category": "neutral",
+			"sounds": ["sounds/music1"]
+		}
+	}
+}
