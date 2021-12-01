@@ -9,5 +9,21 @@
 			"category":"neutral",
 			"sounds":["sounds/2"],
 		},
+		"core.music3": {
+			"category":"neutral",
+			"sounds":["sounds/3"],
+		},
+		"core.music4": {
+			"category":"neutral",
+			"sounds":["sounds/4"],
+		},
+		"core.music5": {
+			"category":"neutral",
+			"sounds":["sounds/5"],
+		},
+		"core.music6": {
+			"category":"neutral",
+			"sounds":["sounds/6"],
+		},
 	}
 }
