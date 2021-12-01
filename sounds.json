@@ -30,5 +30,10 @@
             "pitch": 1,
             "volume": 100,
         },
+        "finale": {
+            "sound":"core.finale",
+            "pitch": 1,
+            "volume": 100,
+        },
     },
 }
