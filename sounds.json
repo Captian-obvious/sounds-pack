@@ -1,27 +1,32 @@
 {
     "core_sounds":{
-        "music1":{
-            "name":"core.music1",
+        "music1": {
+            "sound":"core.music1",
             "pitch": 1,
             "volume": 100,
         },
-        "music2":{
-            "name":"core.music2",
+        "music2": {
+            "sound":"core.music2",
             "pitch": 1,
             "volume": 100,
         },
-        "music3":{
-            "name":"core.music3",
+        "music3": {
+            "sound":"core.music3",
             "pitch": 1,
             "volume": 100,
         },
-        "music4":{
-            "name":"core.music4",
+        "music4": {
+            "sound":"core.music4",
             "pitch": 1,
             "volume": 100,
         },
-        "music5":{
-            "name":"core.music5",
+        "music5": {
+            "sound":"core.music5",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "overheat": {
+            "sound":"core.overheat",
             "pitch": 1,
             "volume": 100,
         },
