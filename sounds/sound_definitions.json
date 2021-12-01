@@ -25,6 +25,14 @@
 			"category":"neutral",
 			"sounds":["sounds/6"],
 		},
+		"core.finale": {
+			"category":"neutral",
+			"sounds":["sounds/finale"],
+		},
+		"core.overheat": {
+			"category":"neutral",
+			"sounds":["sounds/0.1"],
+		},
 	}
 }
 
