@@ -1,0 +1,18 @@
+{
+    "format_verson":2,
+    "header":{
+        "discription":"Sounds Pack for my horror/adventure map",
+        "name":"Sounds Pack",
+        "uuid":"",
+        "version":[1,0,0],
+        "min_engine_version": [1, 16, 0],
+    }
+    "modules": [
+        {
+            "discription":"Sounds Pack for my horror/adventure map",
+            "type":"resources",
+            "uuid":"",
+            "version": [1,0,0],
+        },
+    ],
+}
