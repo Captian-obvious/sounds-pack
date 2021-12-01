@@ -3,7 +3,11 @@
 	"sound_definitions": {
 		"core.music1": {
 			"category": "neutral",
-			"sounds": ["sounds/music1"]
-		}
+			"sounds": ["sounds/1"],
+		},
+		"core.music2": {
+			"category":"neutral",
+			"sounds":["sounds/2"],
+		},
 	}
 }
