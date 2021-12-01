@@ -1,0 +1,9 @@
+{
+    "core_sounds":{
+        "music1":{
+            "name":"core.music1",
+            "pitch": 1,
+            "volume":100,
+        }
+    }
+}
