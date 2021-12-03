@@ -35,5 +35,15 @@
             "pitch": 1,
             "volume": 100,
         },
+        "t6min": {
+            "sound":"core.t6min",
+            "pitch": 1,
+            "volume": 100,
+        },
+        "safeguards": {
+            "sound":"core.safeguards",
+            "pitch": 1,
+            "volume": 100,
+        },
     },
 }
